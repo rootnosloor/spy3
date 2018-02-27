@@ -1,35 +1,35 @@
-WIB SelfBot PY3
+**SELFBOT MAN.PY3
 
-Python 3 Edition
+•Python 3 Edition
 
-pkg install python
+•pkg install python
 
-pkg install python3
+•pkg install python3
 
-pkg install pip3
+•pkg install pip3
 
-pkg install git
+•pkg install git
 
-pkg install nano
+•pkg install nano
 
-git clone https://github.con/oscwib/wib-py3
+•git clone https://github.com/selfbotman9999/py3
 
-pip3 install rsa
+•pip3 install rsa
 
-pip3 install requests 
+•pip3 install requests 
 
-pip3 install thrift
+•pip3 install thrift
 
-pip3 install bs4
+•pip3 install bs4
 
-pip3 install gtts
+•pip3 install gtts
 
-pip3 install googletrans 
+•pip3 install googletrans 
 
-pip3 install linepy
+•pip3 install linepy
 
-cd wib-py
+•cd py3
 
-python3 wib.py
+•python3 Selfbot.py
 
 Login Bisa Via Qr,Email&Token
