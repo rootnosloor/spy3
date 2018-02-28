@@ -6,8 +6,8 @@ from gtts import gTTS
 from googletrans import Translator
 
 #client = LineClient(authToken='')
-#client = LineClient() Untuk Login Lewat Qr
-client = LineClient(id='email', passwd='pass')
+client = LineClient() Untuk Login Lewat Qr
+#client = LineClient(id='email', passwd='pass')
 #client = LineClient(authToken='Token Mu') Untuk Login Via Token
 client.log("Auth Token : " + str(client.authToken))
 
@@ -42,10 +42,7 @@ helpMessage =""" ─┅═✥SelfBot✥═┅─
 【➣】 Mode:publik
 【➣】 Restart
 
-Python 3 Edition
-New Release
-Versi Percobaan
-ℬℽ : W⃟   I⃟   B⃟   
+
 """
 
 poll = LinePoll(client)
